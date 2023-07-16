@@ -31,7 +31,7 @@ To configure the application, you need to provide your OpenAI ChatGPT API key. F
 4. Replace the placeholder value with your API key.
 
 ```properties
-OPEN_AI_API_KEY="YOUR_OPEN_AI_API_KEY"
+OPEN_AI_API_KEY="YOUR_OPENAI_API_KEY"
 ```
 
 ## Contributing
