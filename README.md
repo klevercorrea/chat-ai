@@ -1,8 +1,8 @@
 # Chat AI
 
-Welcome to Chat AI, an intelligent chat application powered by OpenAI's ChatGPT API!
+Welcome to Chat AI, an intelligent chat application powered by OpenAI's ChatGPT API and built with the Vercel AI SDK!
 
-This application allows you to chat with a chat bot that leverages the power of OpenAI's ChatGPT model. With natural language processing capabilities, the chat bot can provide responses to your queries, engage in conversations, and assist with various tasks.
+This application allows you to chat with a chat bot that leverages the power of OpenAI's ChatGPT model, integrated using the Vercel AI SDK. With natural language processing capabilities, the chat bot can provide responses to your queries, engage in conversations, and assist with various tasks.
 
 ## Features
 
